@@ -1,0 +1,8 @@
+com\zhangjianbing\story\service\InventoryService.class
+com\zhangjianbing\story\service\impl\InventoryServiceImpl.class
+com\zhangjianbing\story\mapper\InventoryMapper.class
+com\zhangjianbing\story\controller\InventoryController.class
+com\zhangjianbing\story\entity\InventoryDO.class
+com\zhangjianbing\story\ApplicationInventory.class
+com\zhangjianbing\story\dto\InventoryDTO.class
+com\zhangjianbing\story\annotation\ApiVersion.class

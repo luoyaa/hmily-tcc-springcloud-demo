@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hmily-order" />
+        <module name="hmily-eureka" />
+        <module name="hmily-inventory" />
+        <module name="hmily-account" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="hmily-account" target="1.8" />
+      <module name="hmily-eureka" target="1.8" />
+      <module name="hmily-inventory" target="1.8" />
+      <module name="hmily-order" target="1.8" />
+      <module name="hmily-tcc-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hmily-account" options="-parameters" />
+      <module name="hmily-eureka" options="-parameters" />
+      <module name="hmily-inventory" options="-parameters" />
+      <module name="hmily-order" options="-parameters" />
+    </option>
+  </component>
+</project>

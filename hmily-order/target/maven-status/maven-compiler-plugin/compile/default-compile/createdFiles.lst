@@ -1,0 +1,16 @@
+com\zhangjianbing\story\client\InventoryClient.class
+com\zhangjianbing\story\service\impl\OrderServiceImpl.class
+com\zhangjianbing\story\client\AccountClient.class
+com\zhangjianbing\story\controller\OrderController.class
+com\zhangjianbing\story\dto\AccountDTO.class
+com\zhangjianbing\story\controller\Test01Controller.class
+com\zhangjianbing\story\dto\InventoryDTO.class
+com\zhangjianbing\story\ApplicationOrder.class
+com\zhangjianbing\story\annotation\ApiVersion.class
+com\zhangjianbing\story\service\PaymentService.class
+com\zhangjianbing\story\service\OrderService.class
+com\zhangjianbing\story\client\InventoryHystrix.class
+com\zhangjianbing\story\mapper\OrderMapper.class
+com\zhangjianbing\story\enums\OrderStatusEnum.class
+com\zhangjianbing\story\service\impl\PaymentServiceImpl.class
+com\zhangjianbing\story\entity\Order.class

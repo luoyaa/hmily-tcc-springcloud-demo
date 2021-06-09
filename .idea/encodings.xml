@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/hmily-account/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmily-account/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmily-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmily-eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmily-inventory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmily-inventory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmily-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hmily-order/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

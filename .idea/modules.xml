@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hmily-account/hmily-account.iml" filepath="$PROJECT_DIR$/hmily-account/hmily-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-eureka/hmily-eureka.iml" filepath="$PROJECT_DIR$/hmily-eureka/hmily-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-inventory/hmily-inventory.iml" filepath="$PROJECT_DIR$/hmily-inventory/hmily-inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-order/hmily-order.iml" filepath="$PROJECT_DIR$/hmily-order/hmily-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hmily-tcc-demo.iml" filepath="$PROJECT_DIR$/hmily-tcc-demo.iml" />
+    </modules>
+  </component>
+</project>
